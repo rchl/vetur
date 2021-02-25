@@ -38,7 +38,7 @@
     "prettier-tslint": "^0.4.2",
     "read-pkg-up": "^7.0.1",
     "resolve": "^1.8.1",
-    "sass-formatter": "^0.4.2",
+    "sass-formatter": "^0.7.1",
     "stylus": "^0.54.5",
     "stylus-supremacy": "^2.12.6",
     "typescript": "^3.7.5",
